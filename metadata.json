@@ -1,0 +1,10 @@
+{
+  "name": "Remix Mobilisation Management System",
+  "description": "Production-grade Mobilisation Management System for field mobilisers, managers, and administrators with offline sync, candidate tracking, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
